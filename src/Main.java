@@ -82,6 +82,6 @@ public class Main {
 
         for(int p=1;p<11;p++){
             System.out.println("2*"+p+"="+(p*2));
-        }// Задание 3.2
+        } // Задание 3.2
         }
     }
